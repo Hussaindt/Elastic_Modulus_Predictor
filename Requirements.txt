@@ -1,6 +1,5 @@
 pandas
-xgboost
-joblib
-streamlit
-openpyxl
 scikit-learn
+xgboost
+streamlit
+joblib
